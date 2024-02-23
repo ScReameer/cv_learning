@@ -3,3 +3,5 @@ images/
 annotations/
 *.gz
 lightning_logs/
+*.png
+*.mat
