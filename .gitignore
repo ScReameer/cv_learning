@@ -5,3 +5,4 @@ annotations/
 lightning_logs/
 *.png
 *.mat
+cats/
