@@ -6,3 +6,7 @@ lightning_logs/
 *.png
 *.mat
 cats/
+CelebA/
+__*
+*.pt
+*.pth
